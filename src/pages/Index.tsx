@@ -179,7 +179,7 @@ const Index = () => {
       <div className="min-h-screen flex flex-col items-center justify-center p-6 bg-gradient-to-b from-background to-secondary/50">
         <div className="w-full max-w-4xl space-y-10">
           <div className="text-center space-y-3 animate-fade-in">
-            <h1 className="text-4xl font-medium tracking-tight">TestCase Sorcerer</h1>
+            <h1 className="text-4xl font-medium tracking-tight">Jira AI TestCase Generator</h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Generate comprehensive test cases from your JIRA user stories with just one click.
             </p>
@@ -189,7 +189,7 @@ const Index = () => {
           
           <div className="flex justify-center mt-8 text-center">
             <p className="text-sm text-muted-foreground max-w-md">
-              TestCase Sorcerer uses AI to analyze your JIRA stories and generate detailed test cases across functional, UI, performance, and security domains.
+              TestCase Generator uses AI to analyze your JIRA stories and generate detailed test cases across functional, UI, performance, and security domains.
             </p>
           </div>
         </div>
